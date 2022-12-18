@@ -36,5 +36,6 @@ Export dataset as CSV from https://healthdata.gov/dataset/Maltreatment-Types-of-
 
 U.S. Department of Health & Human Services (2021) Health Data. Available at: https://healthdata.gov/dataset/Maltreatment-Types-of-Victims/8bce-qw8w
 
+ECS784P. Data Analytics. "Week_5_Loan_Prediction_Analysis_v2". School of Electrical and Computer Engineering, Queen Mary University London
 
 
