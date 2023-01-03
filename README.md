@@ -20,7 +20,7 @@ Programming langauge used:
 - Python 3.8.8
 
 Libraries used: 
--Pandas 
+- Pandas
 - Numpy 
 - Seaborn 
 - Matplotlib 
